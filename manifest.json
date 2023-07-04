@@ -1,7 +1,7 @@
 {
     "name": "My first website mockup",
     "short_name": "First mobile mockup",
-    "start_url": "/",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6cc091",
